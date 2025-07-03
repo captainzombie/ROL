@@ -84,7 +84,7 @@ ul {
 
 .hero {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-image: url(/images/hero-img2.jpg);
+  background-image: url(../images/hero-img2.jpg);
   height: 600px;
   align-items: center;
   justify-content: center;
@@ -226,7 +226,7 @@ ul {
 }
 
 .banner {
-  background-image: url(/images/test.png);
+  background-image: url(../images/test.png);
   background-size: cover;
   height: 300px;
   justify-content: center;
