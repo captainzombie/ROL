@@ -105,7 +105,7 @@ ul {
   line-height: 70px;
   letter-spacing: 5.70937px;
   color: #ffffff;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .hero-after-title {
@@ -123,6 +123,14 @@ ul {
   background-color: #3a3a3c;
   color: #f9f9f9;
   padding: 50px 0;
+}
+
+.about-after-title {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 23px;
+  letter-spacing: 0.19px;
+  margin-top: 30px;
 }
 
 .about-list {
@@ -213,16 +221,27 @@ ul {
   border: 1px solid #e6e6e6;
   border-radius: 10px;
   padding: 22px;
+  width: 500px;
+  height: 295px;
 }
 
 .services-text {
   margin-bottom: 10px;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .services-item-wrap {
   display: flex;
   justify-content: center;
   margin-bottom: 25px;
+}
+
+.geography {
+  background-image: url(../images/geography.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
 }
 
 .banner {
@@ -314,4 +333,12 @@ ul {
   line-height: 14px;
   letter-spacing: 1.09091px;
   color: #f9f9f9;
+}
+
+.contacts-title {
+  text-align: center;
+  height: 1000px;
+  background-color: #3a3a3c;
+  color: #f9f9f9;
+  padding-top: 40px;
 }
